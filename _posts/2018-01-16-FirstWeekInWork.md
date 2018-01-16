@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Conference on Javascript
-date: 2017-09-10 00:00:00 +0300
+title: First Week In work
+date: site.date
 description: 作为Java开发入职第一周总结 # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 tags: [工作, 记录] # add tag
