@@ -6,7 +6,7 @@ description: 作为Java开发入职第一周总结 # Add post description (optio
 img: i-rest.jpg # Add image post (optional)
 tags: [工作, 记录] # add tag
 ---
-## 感想
+## 工作中。。。。
 
-工作一周了，今天是第八天，公司氛围很好。
-要努力啊，尽快融入，熟悉，掌握，熟练。时间是不等人的。。
+加油，
+BLog记录作为Java开发的技术分享
